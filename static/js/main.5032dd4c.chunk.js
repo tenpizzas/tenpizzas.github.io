@@ -424,7 +424,7 @@
                     Object(j.jsxs)("span", {
                       className: "logo-text",
                       children: [
-                        Object(j.jsx)("strong", { children: "Isaac' pizza" }),
+                        Object(j.jsx)("strong", { children: "pizza" }),
                         "CRM",
                       ],
                     }),
